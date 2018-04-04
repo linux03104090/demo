@@ -1,5 +1,2 @@
-hello world
-
- !! 
-this is so lucky day
-!!
+hello world!! 
+ 我喜欢你
